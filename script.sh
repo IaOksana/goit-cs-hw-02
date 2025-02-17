@@ -11,3 +11,4 @@ for j in "${websites[@]}"; do
   echo "Index: $j, status: $res  - is DOWN" | tee -a "$log_file"
   fi
 done
+echo "All the results are in $logfile "
