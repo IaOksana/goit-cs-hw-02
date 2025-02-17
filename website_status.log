@@ -3,30 +3,6 @@ Index: https://google.com, status: 301  - is DOWN
 Index: https://facebook.com, status: 301  - is DOWN
 Index: https://twitter.com, status: 302  - is DOWN
 Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
-Index: https://github.com, status: 200 - is UP
-Index: https://google.com, status: 301  - is DOWN
-Index: https://facebook.com, status: 301  - is DOWN
-Index: https://twitter.com, status: 302  - is DOWN
+Index: https://google.com, status: 301 - is REDIRECTED to https://www.google.com/
+Index: https://facebook.com, status: 301 - is REDIRECTED to https://www.facebook.com/
+Index: https://twitter.com, status: 302 - is REDIRECTED to https://x.com/
